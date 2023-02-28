@@ -1,0 +1,13 @@
+.header{
+    background-color: black;
+    border-radius: 0px 0px 0px 40px;
+    height: 480px;
+}
+
+.watch-btn{
+    border: 1px solid white;
+}
+
+.header-image{
+    width: 550px;
+}
